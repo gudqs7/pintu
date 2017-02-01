@@ -1,0 +1,27 @@
+c:\users\administrator\documents\visual studio 2012\Projects\Draft\Draft\bin\Debug\Draft.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\Draft\Draft\bin\Debug\Draft.exe
+c:\users\administrator\documents\visual studio 2012\Projects\Draft\Draft\bin\Debug\Draft.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\Draft\Draft\obj\Debug\Draft.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\Draft\Draft\obj\Debug\Draft.Form1.resources
+c:\users\administrator\documents\visual studio 2012\Projects\Draft\Draft\obj\Debug\Draft.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\Draft\Draft\obj\Debug\Draft.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\Draft\Draft\obj\Debug\Draft.exe
+c:\users\administrator\documents\visual studio 2012\Projects\Draft\Draft\obj\Debug\Draft.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\智能拼图\Draft\bin\Debug\Draft.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\智能拼图\Draft\obj\Debug\Draft.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\智能拼图\Draft\obj\Debug\Draft.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\智能拼图\Draft\bin\Debug\Draft.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\智能拼图\Draft\bin\Debug\Draft.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\智能拼图\Draft\obj\Debug\Draft.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\智能拼图\Draft\obj\Debug\Draft.FrmPin.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\智能拼图\Draft\obj\Debug\Draft.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\智能拼图\Draft\obj\Debug\Draft.csproj.GenerateResource.Cache
+G:\智能拼图\Draft\bin\Debug\Draft.exe.config
+G:\智能拼图\Draft\obj\Debug\Draft.exe
+G:\智能拼图\Draft\obj\Debug\Draft.pdb
+G:\智能拼图\Draft\bin\Debug\Draft.exe
+G:\智能拼图\Draft\bin\Debug\Draft.pdb
+G:\智能拼图\Draft\obj\Debug\Draft.csprojResolveAssemblyReference.cache
+G:\智能拼图\Draft\obj\Debug\Draft.FrmPin.resources
+G:\智能拼图\Draft\obj\Debug\Draft.Properties.Resources.resources
+G:\智能拼图\Draft\obj\Debug\Draft.csproj.GenerateResource.Cache
